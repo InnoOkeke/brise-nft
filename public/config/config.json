@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
+  "SCAN_LINK": "https://rinkeby.etherscan.com/token/0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
+  "NETWORK": {
+    "NAME": "BNB Chain",
+    "SYMBOL": "BNB",
+    "ID": 4
+  },
+  "NFT_NAME": "Hippie Goats NFT",
+  "SYMBOL": "HG",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com",
+  "SHOW_BACKGROUND": true
+}
