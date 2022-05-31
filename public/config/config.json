@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
-  "SCAN_LINK": "https://rinkeby.etherscan.com/token/0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
+  "CONTRACT_ADDRESS": "0x34C0Aa4D5F32FC427378280672F278703d56b992",
+  "SCAN_LINK": "https://brisescan.com/address/0x34C0Aa4D5F32FC427378280672F278703d56b992",
   "NETWORK": {
-    "NAME": "BNB Chain",
-    "SYMBOL": "BNB",
-    "ID": 4
+    "NAME": "BITGERT",
+    "SYMBOL": "BRISE",
+    "ID": 32520
   },
-  "NFT_NAME": "Hippie Goats NFT",
-  "SYMBOL": "HG",
+  "NFT_NAME": "TEST NFT",
+  "SYMBOL": "TEST",
   "MAX_SUPPLY": 2500,
-  "WEI_COST": 200000000000000000,
-  "DISPLAY_COST": 0.2,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "TofuNFT",
-  "MARKETPLACE_LINK": "https://tofunft.com",
+  "MARKETPLACE": "BRISENFT",
+  "MARKETPLACE_LINK": "https://brisenft.com",
   "SHOW_BACKGROUND": true
 }
