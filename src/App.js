@@ -397,7 +397,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Hippie Goats
+            BRISE
           
           </s.TextDescription>
         </s.Container>
